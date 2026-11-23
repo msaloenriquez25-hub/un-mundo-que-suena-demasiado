@@ -6,7 +6,7 @@
  * lienzo. Si algo falla dentro, se retira sola para no dejar la pantalla tapada.
  */
 
-const MARCADORES = ["3_spread","LIBRO_ALBUM3"]
+const MARCADORES = ["3_spread","LIBRO_ALBUM3","LIBRO_ALBUM3_2"]
 
 /**
  * Cuenta las descargas en curso de archivos del proyecto (assets/ o blobs) para
